@@ -10,3 +10,4 @@ public class Kurs1 {
         return byn*course;
     }
 }
+
